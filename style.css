@@ -1,1 +1,5 @@
-m
+*{
+    margin: 0%;
+    padding: auto;
+    box-sizing: content-box;
+}
