@@ -3,6 +3,14 @@
     padding: auto;
     box-sizing: content-box;
 }
-.button{
+.btn{
     background-color: coral;
+}
+nav {
+    display: inline;
+    align-content: space-around;
+    justify-self: center;
+    padding-left:10%;
+    padding-right: 10%;
+    padding-right: 45px;
 }
