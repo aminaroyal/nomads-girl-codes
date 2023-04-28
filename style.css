@@ -2,15 +2,17 @@
     margin: 0%;
     padding: auto;
     box-sizing: content-box;
-}
-.btn{
-    background-color: coral;
-}
+    font-family: fantasy;}
 nav {
-    display: inline;
-    align-content: space-around;
-    justify-self: center;
+    display:flex;
+    align-items:center;
+    justify-self:space-between;
     padding-left:10%;
     padding-right: 10%;
-    padding-right: 45px;
+    padding-top: 45px;
+}
+*{
+    height: auto;
+width: auto;
+background-color: blueviolet;
 }
