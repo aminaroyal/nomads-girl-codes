@@ -11,7 +11,11 @@ nav {
     padding-right: 10%;
     padding-top: 45px;
 }
-*{
+ .h1{
+    text-align: center;
+    text-decoration:blueviolet;
+}
+*hero{
     height: auto;
 width: auto;
 background-color: blueviolet;
